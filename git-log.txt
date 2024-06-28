@@ -1,6 +1,7 @@
-412cabf - L N M Anudeep, 30 seconds ago : Add tests for Player, Dice, Arena and Fix bug in attack logic
-70e21e4 - L N M Anudeep, 14 minutes ago : Add Arena class with fight and attack methods
-6fcd68d - L N M Anudeep, 20 minutes ago : Add Dice class with roll method
-08adbfb - L N M Anudeep, 35 minutes ago : Add Player class with health, strength, and attack attributes
-f6dbf0b - L N M Anudeep, 40 minutes ago : Initial commit: add package.json, .gitignore, and README.md
-c5d0de9 - L N M Anudeep, 43 minutes ago : Initial commit
+8526b72 - L N M Anudeep, 17 seconds ago : Add git log file
+412cabf - L N M Anudeep, 3 minutes ago : Add tests for Player, Dice, Arena and Fix bug in attack logic
+70e21e4 - L N M Anudeep, 15 minutes ago : Add Arena class with fight and attack methods
+6fcd68d - L N M Anudeep, 23 minutes ago : Add Dice class with roll method
+08adbfb - L N M Anudeep, 36 minutes ago : Add Player class with health, strength, and attack attributes
+f6dbf0b - L N M Anudeep, 55 minutes ago : Initial commit: add package.json, .gitignore, and README.md
+c5d0de9 - L N M Anudeep, 56 minutes ago : Initial commit
